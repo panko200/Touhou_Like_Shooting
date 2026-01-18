@@ -1,4 +1,4 @@
-# 東方風弾幕 ~Touhou_Like_Shooting~
+# 東方風弾幕 Touhou_Like_Shooting
 
 ## 制作時期
 
